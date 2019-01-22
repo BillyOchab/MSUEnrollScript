@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MSU Enroll Script", "MSU Enroll Script\MSU Enroll Script.pyproj", "{87364962-C517-4F61-B035-C1C324D2A0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87364962-C517-4F61-B035-C1C324D2A0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87364962-C517-4F61-B035-C1C324D2A0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7338BD28-166F-4BD9-97BD-EB90DFAA05E5}
+	EndGlobalSection
+EndGlobal
